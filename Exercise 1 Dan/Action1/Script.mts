@@ -1,1 +1,1 @@
-﻿msgbox " Hello world! Welcome to UFT"
+﻿msgbox " Hello world!"
